@@ -1,9 +1,17 @@
 {
   "version": 1,
-  "base_track": "日食なつこ - 'どっか遠くまで' Official Music Video",
+  "base_track": "どっか遠くまで",
   "base_artist": "日食なつこ",
-  "createdAt": "2025-12-19T01:37:02.051442Z",
+  "createdAt": "2026-03-31T07:36:43.694029Z",
   "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "どっか遠くまで",
+      "artist": "日食なつこ",
+      "has_synced": true,
+      "path": "select/01_どっか遠くまで_日食なつこ.lrc"
+    },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
@@ -11,6 +19,15 @@
       "artist": "日食なつこ",
       "has_synced": false,
       "path": "select/pl_01_どっか遠くまで_日食なつこ.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "どっか遠くまで",
+      "artist": "日食なつこ",
+      "has_synced": false,
+      "path": "select/localdb_01_どっか遠くまで_日食なつこ.txt",
+      "repo_name": "9ZeOZHpUJhk"
     }
   ]
 }
